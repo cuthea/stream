@@ -1,0 +1,7 @@
+Streaming at: {{CreatedAt}}<br>
+Game: {{Game}}<br>
+Channel name: {{ChannelName}}<br>
+Current viewers: {{CurrentViewers}}<br>
+Stream preview: {{StreamPreview}}<br>
+Channel URL: {{ChannelUrl}}<br>
+<br>
